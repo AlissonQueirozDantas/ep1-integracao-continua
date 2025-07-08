@@ -1,0 +1,12 @@
+{
+  "name": "ep1-integracao-continua",
+  "version": "1.0.0",
+  "description": "Projeto Integrado IV",
+  "main": "index.js",
+  "scripts": {
+  "test": "node test.js"
+}
+,
+  "author": "",
+  "license": "ISC"
+}
